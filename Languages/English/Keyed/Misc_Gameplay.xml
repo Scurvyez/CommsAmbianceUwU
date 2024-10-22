@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <CAUWU_ModName>Comms Ambiance UwU</CAUWU_ModName>
+
+    <CAUWU_TradeDialogue_AmbientVolumeMaxLabel>Trade Dialogue: </CAUWU_TradeDialogue_AmbientVolumeMaxLabel>
+    <CAUWU_TradeDialogue_AmbientVolumeMaxToolTip>Adjust to set the maximum volume for the ambient ship sounds while the trading menu is open.</CAUWU_TradeDialogue_AmbientVolumeMaxToolTip>
+    <CAUWU_NegotiationDialogue_AmbientVolumeMaxLabel>Negotiation Dialogue: </CAUWU_NegotiationDialogue_AmbientVolumeMaxLabel>
+    <CAUWU_NegotiationDialogue_AmbientVolumeMaxToolTip>Adjust to set the maximum volume for the ambient ship sounds while the faction negotiations menu is open.\n\n(Requires a reload of the save.)</CAUWU_NegotiationDialogue_AmbientVolumeMaxToolTip>
+
+</LanguageData>
